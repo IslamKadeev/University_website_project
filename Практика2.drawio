@@ -1,0 +1,117 @@
+<mxfile host="app.diagrams.net" modified="2024-02-20T20:15:52.152Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:122.0) Gecko/20100101 Firefox/122.0" etag="omOh0xjI08suKouN9-h0" version="23.1.5" type="device">
+  <diagram name="Page-1" id="jqozweAC6xOd-yikoQDW">
+    <mxGraphModel dx="1687" dy="874" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="aPAt6QU8vgbsCvyJmCAG-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="aPAt6QU8vgbsCvyJmCAG-1" target="aPAt6QU8vgbsCvyJmCAG-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aPAt6QU8vgbsCvyJmCAG-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="aPAt6QU8vgbsCvyJmCAG-1" target="aPAt6QU8vgbsCvyJmCAG-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aPAt6QU8vgbsCvyJmCAG-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="aPAt6QU8vgbsCvyJmCAG-1" target="aPAt6QU8vgbsCvyJmCAG-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aPAt6QU8vgbsCvyJmCAG-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="aPAt6QU8vgbsCvyJmCAG-1" target="aPAt6QU8vgbsCvyJmCAG-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aPAt6QU8vgbsCvyJmCAG-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="aPAt6QU8vgbsCvyJmCAG-1" target="aPAt6QU8vgbsCvyJmCAG-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aPAt6QU8vgbsCvyJmCAG-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="aPAt6QU8vgbsCvyJmCAG-1" target="aPAt6QU8vgbsCvyJmCAG-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="100" y="270" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aPAt6QU8vgbsCvyJmCAG-1" value="Информационная система сайта университета" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="890" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aPAt6QU8vgbsCvyJmCAG-2" value="Подсистема управления контентом" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aPAt6QU8vgbsCvyJmCAG-3" value="Подсистема авторизации пользователей" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aPAt6QU8vgbsCvyJmCAG-4" value="Подсистема новостей и событий" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aPAt6QU8vgbsCvyJmCAG-5" value="Подсистема академических программ и курсов" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="760" y="360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aPAt6QU8vgbsCvyJmCAG-6" value="Подсистема онлайн обучения" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1000" y="360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aPAt6QU8vgbsCvyJmCAG-7" value="Подсистема коммуникации и обратной связи" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1240" y="360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aPAt6QU8vgbsCvyJmCAG-8" value="Подсистема аналитики и мониторинга" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1480" y="360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aPAt6QU8vgbsCvyJmCAG-9" value="&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&#x9;&lt;br/&gt;&#x9;&lt;br/&gt;&#x9;&lt;br/&gt;&#x9;&lt;br/&gt;&lt;br/&gt;&lt;p style=&quot;line-height: 150%&quot; align=&quot;justify&quot; class=&quot;western&quot;&gt;&lt;br/&gt;&lt;font style=&quot;font-size: 14pt&quot; size=&quot;4&quot;&gt;Добавление новых&lt;br/&gt;страниц и материалов на сайт.&lt;/font&gt;&lt;/p&gt;&lt;br/&gt;&lt;br/&gt;&lt;style type=&quot;text/css&quot;&gt;p { color: #000000; line-height: 115%; text-align: left; orphans: 2; widows: 2; margin-bottom: 0.1in; direction: ltr; background: transparent }p.western { font-family: &quot;Liberation Serif&quot;, serif; font-size: 12pt; so-language: en-US }p.cjk { font-family: &quot;Verdana&quot;; font-size: 12pt; so-language: zh-CN }p.ctl { font-family: &quot;FreeSans&quot;; font-size: 12pt; so-language: hi-IN }a:link { color: #000080; text-decoration: underline }&lt;/style&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="70" y="450" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="aPAt6QU8vgbsCvyJmCAG-10" value="&lt;p class=&quot;western&quot; align=&quot;justify&quot; style=&quot;line-height: 150%&quot;&gt;&#xa;&lt;font size=&quot;4&quot; style=&quot;font-size: 14pt&quot;&gt;Редактирование&#xa;существующего контента&lt;/font&gt;&lt;/p&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="590" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="aPAt6QU8vgbsCvyJmCAG-11" value="&lt;p class=&quot;western&quot; align=&quot;justify&quot; style=&quot;line-height: 150%&quot;&gt;&#xa;&lt;font size=&quot;4&quot; style=&quot;font-size: 14pt&quot;&gt;Управление&#xa;медиафайлами (изображениями, видео,&#xa;документами).&lt;/font&gt;&lt;/p&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="700" width="110" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="aPAt6QU8vgbsCvyJmCAG-12" value="&lt;p class=&quot;western&quot; align=&quot;justify&quot; style=&quot;line-height: 150%&quot;&gt;&#xa;&lt;font size=&quot;4&quot; style=&quot;font-size: 14pt&quot;&gt;Регистрация&#xa;пользователей.&lt;/font&gt;&lt;/p&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="405" width="150" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="aPAt6QU8vgbsCvyJmCAG-13" value="&lt;p class=&quot;western&quot; align=&quot;justify&quot; style=&quot;line-height: 150%&quot;&gt;&#xa;&lt;font size=&quot;4&quot; style=&quot;font-size: 14pt&quot;&gt;Вход на сайт с&#xa;использованием учетных данных.&lt;/font&gt;&lt;/p&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="500" width="140" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="aPAt6QU8vgbsCvyJmCAG-14" value="&lt;p class=&quot;western&quot; align=&quot;justify&quot; style=&quot;line-height: 150%&quot;&gt;&#xa;&lt;font size=&quot;4&quot; style=&quot;font-size: 14pt&quot;&gt;Восстановление&#xa;паролей.&lt;/font&gt;&lt;/p&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="590" width="160" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="aPAt6QU8vgbsCvyJmCAG-15" value="&lt;p class=&quot;western&quot; align=&quot;justify&quot; style=&quot;line-height: 150%&quot;&gt;&#xa;&lt;font size=&quot;4&quot; style=&quot;font-size: 14pt&quot;&gt;Публикация новостей&#xa;и анонсов.&lt;/font&gt;&lt;/p&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="405" width="130" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="aPAt6QU8vgbsCvyJmCAG-16" value="&lt;p class=&quot;western&quot; align=&quot;justify&quot; style=&quot;line-height: 150%&quot;&gt;&#xa;&lt;font size=&quot;4&quot; style=&quot;font-size: 14pt&quot;&gt;Управление датами&#xa;и категориями новостей.&lt;/font&gt;&lt;/p&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="500" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="aPAt6QU8vgbsCvyJmCAG-17" value="&lt;p class=&quot;western&quot; align=&quot;justify&quot; style=&quot;line-height: 150%&quot;&gt;&#xa;&lt;font size=&quot;4&quot; style=&quot;font-size: 14pt&quot;&gt;Отображение&#xa;актуальных событий на главной странице.&lt;/font&gt;&lt;/p&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="620" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="aPAt6QU8vgbsCvyJmCAG-18" value="&lt;p class=&quot;western&quot; align=&quot;justify&quot; style=&quot;line-height: 150%&quot;&gt;&#xa;&lt;font size=&quot;4&quot; style=&quot;font-size: 14pt&quot;&gt;Предоставление&#xa;информации о доступных академических&#xa;программках.&lt;/font&gt;&lt;/p&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="760" y="400" width="100" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="aPAt6QU8vgbsCvyJmCAG-19" value="&lt;p class=&quot;western&quot; align=&quot;justify&quot; style=&quot;line-height: 150%&quot;&gt;&#xa;&lt;font size=&quot;4&quot; style=&quot;font-size: 14pt&quot;&gt;Описание учебных&#xa;курсов и их содержания.&lt;/font&gt;&lt;/p&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="760" y="540" width="150" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="aPAt6QU8vgbsCvyJmCAG-20" value="&lt;p class=&quot;western&quot; align=&quot;justify&quot; style=&quot;line-height: 150%&quot;&gt;&#xa;&lt;font size=&quot;4&quot; style=&quot;font-size: 14pt&quot;&gt;Обновление&#xa;требований к поступлению.&lt;/font&gt;&lt;/p&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="760" y="660" width="100" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="aPAt6QU8vgbsCvyJmCAG-21" value="&lt;p class=&quot;western&quot; align=&quot;justify&quot; style=&quot;line-height: 150%&quot;&gt;&#xa;&lt;font size=&quot;4&quot; style=&quot;font-size: 14pt&quot;&gt;Предоставление&#xa;доступа к онлайн-курсам и материалам.&lt;/font&gt;&lt;/p&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1000" y="400" width="170" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="aPAt6QU8vgbsCvyJmCAG-22" value="&lt;p class=&quot;western&quot; align=&quot;justify&quot; style=&quot;line-height: 150%&quot;&gt;&#xa;&lt;font size=&quot;4&quot; style=&quot;font-size: 14pt&quot;&gt;Онлайн-тестирование&#xa;и оценивание студентов.&lt;/font&gt;&lt;/p&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1000" y="520" width="130" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="aPAt6QU8vgbsCvyJmCAG-23" value="&lt;p class=&quot;western&quot; align=&quot;justify&quot; style=&quot;line-height: 150%&quot;&gt;&#xa;&lt;font size=&quot;4&quot; style=&quot;font-size: 14pt&quot;&gt;Организация&#xa;обратной связи для участников курсов.&lt;/font&gt;&lt;/p&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1000" y="640" width="90" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="aPAt6QU8vgbsCvyJmCAG-24" value="&lt;p class=&quot;western&quot; align=&quot;justify&quot; style=&quot;line-height: 150%&quot;&gt;&#xa;&lt;font size=&quot;4&quot; style=&quot;font-size: 14pt&quot;&gt;Обеспечение средств&#xa;коммуникации между пользователями и&#xa;администрацией.&lt;/font&gt;&lt;/p&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1240" y="390" width="120" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="aPAt6QU8vgbsCvyJmCAG-25" value="&lt;p class=&quot;western&quot; align=&quot;justify&quot; style=&quot;line-height: 150%&quot;&gt;&#xa;&lt;font size=&quot;4&quot; style=&quot;font-size: 14pt&quot;&gt;Поддержка чатов,&#xa;электронной почты и форм обратной связи.&lt;/font&gt;&lt;/p&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1240" y="590" width="150" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="aPAt6QU8vgbsCvyJmCAG-26" value="&lt;p class=&quot;western&quot; align=&quot;justify&quot; style=&quot;line-height: 150%&quot;&gt;&#xa;&lt;font size=&quot;4&quot; style=&quot;font-size: 14pt&quot;&gt;Отслеживание&#xa;производительности сайта&lt;/font&gt;&lt;/p&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1480" y="390" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="aPAt6QU8vgbsCvyJmCAG-27" value="&lt;p class=&quot;western&quot; align=&quot;justify&quot; style=&quot;line-height: 150%&quot;&gt;&#xa;&lt;font size=&quot;4&quot; style=&quot;font-size: 14pt&quot;&gt;Анализ поведения&#xa;пользователей.&lt;/font&gt;&lt;/p&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1480" y="490" width="180" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="aPAt6QU8vgbsCvyJmCAG-28" value="&lt;p class=&quot;western&quot; align=&quot;justify&quot; style=&quot;line-height: 150%&quot;&gt;&#xa;&lt;font size=&quot;4&quot; style=&quot;font-size: 14pt&quot;&gt;Оптимизация работы&#xa;сайта на основе данных аналитики.&lt;/font&gt;&lt;/p&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1480" y="580" width="320" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="aPAt6QU8vgbsCvyJmCAG-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.521;entryY=-0.081;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="aPAt6QU8vgbsCvyJmCAG-1" target="aPAt6QU8vgbsCvyJmCAG-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
