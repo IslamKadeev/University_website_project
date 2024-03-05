@@ -1,9 +1,78 @@
-<mxfile host="app.diagrams.net" modified="2024-03-05T09:20:41.576Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:122.0) Gecko/20100101 Firefox/122.0" version="24.0.0" etag="kpVp8RnXbU9ZSsUtGEqo" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-05T09:32:24.424Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:122.0) Gecko/20100101 Firefox/122.0" etag="ZoD5BPy1GwqnKswAXfGd" version="24.0.0" type="github">
   <diagram name="Page-1" id="YYlUMxrQMl0TkWKQ_UDz">
-    <mxGraphModel>
+    <mxGraphModel dx="1434" dy="1843" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="QOWDIsAuRH0rCDzNIPAo-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="QOWDIsAuRH0rCDzNIPAo-1" target="QOWDIsAuRH0rCDzNIPAo-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QOWDIsAuRH0rCDzNIPAo-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="QOWDIsAuRH0rCDzNIPAo-1" target="QOWDIsAuRH0rCDzNIPAo-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QOWDIsAuRH0rCDzNIPAo-1" value="Студент" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="180" y="370" width="110" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="QOWDIsAuRH0rCDzNIPAo-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="QOWDIsAuRH0rCDzNIPAo-4" target="QOWDIsAuRH0rCDzNIPAo-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QOWDIsAuRH0rCDzNIPAo-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="QOWDIsAuRH0rCDzNIPAo-4" target="QOWDIsAuRH0rCDzNIPAo-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QOWDIsAuRH0rCDzNIPAo-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="QOWDIsAuRH0rCDzNIPAo-4" target="QOWDIsAuRH0rCDzNIPAo-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QOWDIsAuRH0rCDzNIPAo-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="QOWDIsAuRH0rCDzNIPAo-4" target="QOWDIsAuRH0rCDzNIPAo-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QOWDIsAuRH0rCDzNIPAo-4" value="Преподаватель" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="920" y="360" width="140" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="QOWDIsAuRH0rCDzNIPAo-5" value="Прохождение курса" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="385" width="190" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="QOWDIsAuRH0rCDzNIPAo-8" value="Создание курса" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="620" y="130" width="190" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="QOWDIsAuRH0rCDzNIPAo-10" value="Прохождение тестирования" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="495" y="550" width="160" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="QOWDIsAuRH0rCDzNIPAo-13" value="Контроль результатов" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="670" y="740" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="QOWDIsAuRH0rCDzNIPAo-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="QOWDIsAuRH0rCDzNIPAo-15" target="QOWDIsAuRH0rCDzNIPAo-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QOWDIsAuRH0rCDzNIPAo-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="QOWDIsAuRH0rCDzNIPAo-15" target="QOWDIsAuRH0rCDzNIPAo-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QOWDIsAuRH0rCDzNIPAo-15" value="Пользователь" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="1260" y="70" width="80" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="QOWDIsAuRH0rCDzNIPAo-16" value="Пишет комментарий к новости" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1440" y="180" width="200" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="QOWDIsAuRH0rCDzNIPAo-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="QOWDIsAuRH0rCDzNIPAo-18" target="QOWDIsAuRH0rCDzNIPAo-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QOWDIsAuRH0rCDzNIPAo-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="QOWDIsAuRH0rCDzNIPAo-18" target="QOWDIsAuRH0rCDzNIPAo-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QOWDIsAuRH0rCDzNIPAo-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="QOWDIsAuRH0rCDzNIPAo-18" target="QOWDIsAuRH0rCDzNIPAo-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QOWDIsAuRH0rCDzNIPAo-18" value="Автор" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="1930" y="90" width="110" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="QOWDIsAuRH0rCDzNIPAo-23" value="Создает новость/событие" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1630" y="-80" width="170" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="QOWDIsAuRH0rCDzNIPAo-25" value="Удалить пост" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1630" y="370" width="200" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="QOWDIsAuRH0rCDzNIPAo-27" value="Пожаловаться на пост" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1390" y="390" width="170" height="110" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
