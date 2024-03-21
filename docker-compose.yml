@@ -1,0 +1,11 @@
+version: '3.5'
+
+services:
+  db_restaurant:
+    container_name: db_restaurant
+    ports:
+      - '5432:5432'
+    environment:
+      - POSTGRES_PASSWORD=postgres
+      - POSTGRES_USER=postgres
+    image: postgres:14.3-alpine
